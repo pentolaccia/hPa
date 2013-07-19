@@ -1,0 +1,46 @@
+body {
+    margin: auto 0;
+    width: 100%;
+    font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 100;
+}
+
+.sub-title {
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    height:  100%;
+    margin-top: 10rem;
+}
+
+
+.column1 {
+    width: 35%;
+    margin-left: 20%;
+    height: 100%;
+    float: left;
+}
+.column2 {
+    width: 40%;
+    margin-left: 5%;
+    height: 8rem;
+    float: left;
+    color: #444;
+}
+
+/*#back {
+    position: absolute;
+    z-index: -1;
+    height: 30rem;
+    width: 100%;
+    background: url("../img/back.png") no-repeat center;
+    margin 0;
+}*/
